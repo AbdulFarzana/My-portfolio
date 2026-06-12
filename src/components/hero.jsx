@@ -32,7 +32,7 @@ export const Hero = () => {
                     </a>
 
                     <a
-                        href="/resume_main.pdf"
+                        href="./resume_main.pdf"
                         target="_blank"
                         rel="noreferrer"
                         className={Styles.resumeBtn}
@@ -41,7 +41,7 @@ export const Hero = () => {
                     </a>
 
                     <a
-                        href="/resume_main.pdf"
+                        href="./resume_main.pdf"
                         download
                         className={Styles.downloadBtn}
                     >
