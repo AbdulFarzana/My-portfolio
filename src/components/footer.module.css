@@ -1,0 +1,31 @@
+.footer {
+
+    height: 120px;
+
+    background: #021b40;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    gap: 50px;
+}
+
+.footer a {
+
+    font-size: 2rem;
+
+    color: #5fb3ff;
+
+    transition: .4s;
+}
+
+.footer a:hover {
+
+    transform:
+        translateY(-5px) scale(1.15);
+
+    color: white;
+}
