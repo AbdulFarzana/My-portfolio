@@ -8,19 +8,22 @@ export const About = () => {
 
             <div className={Styles.content}>
                 <p className={Styles.text}>
-                    I am a 3rd year B.Tech student specializing in Computer Science and
-                    Engineering with a strong focus on Artificial Intelligence and
-                    Machine Learning at Prasad V. Potluri Siddhartha Engineering College.
+                    I am a <strong>4th-year B.Tech student</strong> specializing in Computer Science and
+                    Engineering with a strong focus on Artificial Intelligence and Machine Learning
+                    at Prasad V. Potluri Siddhartha Engineering College. I have consistently
+                    maintained a strong academic record with a <strong>CGPA of 9.06</strong>.
                 </p>
 
                 <p className={Styles.text}>
-                    I am passionate about building AI-driven solutions that create
-                    real-world impact and enjoy developing intelligent systems.
+                    I am passionate about building AI-driven solutions that solve real-world
+                    problems and enjoy transforming innovative ideas into intelligent,
+                    user-centric applications.
                 </p>
 
                 <p className={Styles.text}>
-                    I continuously explore new technologies and apply them to create
-                    innovative and scalable solutions.
+                    I continuously explore emerging technologies, participate in hackathons,
+                    and work on impactful projects that strengthen my technical expertise while
+                    enabling me to develop scalable, innovative, and AI-powered solutions.
                 </p>
             </div>
 

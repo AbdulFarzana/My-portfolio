@@ -23,16 +23,14 @@
 /* HEADING */
 
 .container h1 {
-
     font-size: 3rem;
-
     font-weight: 700;
-
     margin-bottom: 80px;
-
     color: white;
-
     position: relative;
+    display: inline-block;
+    align-self: flex-start;
+    margin-left: 0;
 }
 
 

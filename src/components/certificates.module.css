@@ -1,7 +1,7 @@
 .section {
     min-height: 100vh;
     padding: 80px 10%;
-    background: #001a44;
+    background: linear-gradient(135deg, #000e44, #011760);
     color: white;
 }
 
